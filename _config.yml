@@ -2,8 +2,8 @@
 title: Chronicles of a Junior Dev
 email:
 description:
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/chronicles/" # the subpath of your site, e.g. /blog/
+url: "http://alainakafkes.github.io" # the base hostname & protocol for your site
 twitter_username: alainakafkes
 github_username: alainakafkes
 
