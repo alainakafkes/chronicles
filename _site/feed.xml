@@ -5,12 +5,12 @@
     <description></description>
     <link>http://localhost:4000/chronicles/</link>
     <atom:link href="http://localhost:4000/chronicles/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Aug 2017 12:16:44 -0500</pubDate>
-    <lastBuildDate>Tue, 08 Aug 2017 12:16:44 -0500</lastBuildDate>
+    <pubDate>Mon, 14 Aug 2017 08:40:49 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Aug 2017 08:40:49 -0500</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
-        <title>Introducing the Chronicles</title>
+        <title>Welcome to the Chronicles</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;“To write, you have to want something to survive you.” -Elena Ferrante&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -33,9 +33,9 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Aug 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/chronicles/2017/08/07/introduction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chronicles/2017/08/07/introduction.html</guid>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/chronicles/2017/08/14/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chronicles/2017/08/14/welcome.html</guid>
         
         
       </item>

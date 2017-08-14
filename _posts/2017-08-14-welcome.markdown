@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Introducing the Chronicles"
-date: 2017-08-07
-categories: 
+title: "Welcome to the Chronicles"
+date: 2017-08-14
+categories:
 ---
 > “To write, you have to want something to survive you.” -Elena Ferrante
 
