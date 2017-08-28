@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Feelings from the First Week"
+date: 2017-08-28
+categories:
+---
+
+My first week as a software engineer has been an utter whirlwind. I'll *chronicle* (ba-dum tss!) some of the emotions I underwent below, and then list my learnings.
+
+## Lonely 😞
+
+Last Saturday, my flight touched down in Oakland International Airport. It wasn't until then that the whole "new job, new city" thing *truly* hit me.
+
+My start date was a mere two days later in San Francisco, a city in which I know only a handful of acquaintances. I was lucky that my family flew out with me to the Bay Area; without them present, my sense of aloneness and insignificance would have felt more oppressive. RIP.
+
+## Self-Righteous 🙄
+
+When I took the BART on Monday morning, I experienced the nagging sensation of being an outsider looking in. From the [BART](https://en.wikipedia.org/wiki/Bay_Area_Rapid_Transit) to the bridges, everything about the Bay Area seemed... wrong. I kept comparing things to Chicago, lamenting ad nauseam that [the L](https://en.wikipedia.org/wiki/Chicago_%22L%22) is cheaper than the BART and that Chicago's summer weather was better than Berkeley's. I doubted that San Francisco could ever feel like home.
+
+## Nervous 😖
+
+Needless to say, I had reduced myself to a pipsqueak-ish person by the time I walked in the door at work. I work at [Medium](https://medium.com/), a company with less than 100 employees, so my Chicagoan grievances turned into nervousness about fitting in with such a small group and adding value to the product.
+
+## Welcomed 😍
+
+Looking back, my apprehension was understandable but overblown. My team welcomed me with open arms. There was a box of my favorite snacks (!!!) and swag awaiting me on my desk. Even when my mentor went on a brief vacation, every other engineer on my team offered to [pair](https://en.wikipedia.org/wiki/Pair_programming) with me and answer my questions until I got ramped up.
+
+Team aside, I've been able to eat lunch and talk with not only my new grad cohort, but also ~10-15 more experienced Medium employees. My engineering manager took me to the lovely [Asha Tea House](https://www.ashateahouse.com/) for our first one-on-one, which got me hooked on boba and established a comfortable manager-engineer relationship. Double win.
+
+## Lucky 😇
+
+If everyone at Medium has one thing in common, it's friendliness. This has been said time and time again, but it's worth repeating: **work culture matters**. As a newcomer to this city, this company, and this line of work, feeling happy and safe at work is a blessing and a privilege.
+
+## Confused 🤔
+
+Of course, not everything about my first full-time engineering job is peachy. I'm currently working on Medium iOS, and, because my iOS development experience has only been with personal projects, Medium's vast codebase intimidates the *hell* out of me. Fortunately, my fellow iOS engineers have been more than willing to bring me back to the light when I get lost in its depths.
+
+## Proud 😎
+
+Despite my newness to the iOS codebase, I added a small feature that will soon be in production and now I'm working on a second! First [PRs](https://help.github.com/articles/about-pull-requests/) have been a big milestone for me ever since I started contributing to open source, so I celebrated the moment my first contribution was approved.
+
+## Educational 🤓
+
+Aha. You made it to the last of my emotions! Now, I'll share with *you* some of my takeaways from my first week that I think any engineer -- perhaps any human? -- can learn from.
+
+**Ask questions.** Admitting confusion can be a hard step, especially for new engineers who feel self-conscious about not living up to the high expectations that got them hired. Because I'm cognizant of this feeling, I challenge myself to ask questions, because, without them, my growth would be greatly impeded.
+
+**Give small companies a chance.** Medium is the first small tech company I've ever worked at, and so far, I *really* like how flexible the teams are and that I've already met most of the employees. I anticipate having a highly personalized engineering experience that stretches me where I want to grow, which often doesn't happen at larger companies.
+
+**Check in and check out.** At the end of each day, I write down what I accomplished and what I'd like to accomplish the next day. This has helped me track my progress and remember where I left off, which has improved my productivity. Plus, taking a break from my laptop to write in a journal feels *really* nice.
+
+**Say yes!** Nope, not [to the dress](https://www.youtube.com/watch?v=9ExHqF1CDkc), but to going with your co-workers to do things! This week, I've said yes to getting lunch with someone I didn't know, hunting down food trucks, and picking out team snacks at Trader Joe's. Taking up these invitations has been quite conducive to having conversations about the non-work part of my co-workers' lives, which makes me feel even more comfortable at Medium.
+
+## Settled 😌
+
+I lied, there's a bonus emotion.
+
+I've had a exciting (albeit turbulent!) first week that turned into a weekend full of meeting up with friends old and new. I'm starting to feel more settled as new engineer and new San Franciscan.
+
+*To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on [Twitter](https://twitter.com/alainakafkes)!*
