@@ -5,9 +5,143 @@
     <description></description>
     <link>http://localhost:4000/chronicles/</link>
     <atom:link href="http://localhost:4000/chronicles/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Aug 2017 20:25:54 -0700</pubDate>
-    <lastBuildDate>Sun, 27 Aug 2017 20:25:54 -0700</lastBuildDate>
+    <pubDate>Mon, 11 Sep 2017 08:05:22 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2017 08:05:22 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>On Self-Advocacy</title>
+        <description>&lt;p&gt;I’ve been thinking a lot about self-advocacy lately.&lt;/p&gt;
+
+&lt;p&gt;I feel lucky to be at Medium—where I have incredible mentors who have been helping me grow as an engineer, as well as the opportunity to work on a product I care about—but sometimes I forget that &lt;em&gt;I&lt;/em&gt; am an asset, too. I’ve struggled to balance gratitude with confidence.&lt;/p&gt;
+
+&lt;p&gt;It may seem that all that glitters is gold in tech; the perks of working at a tech company in San Francisco are &lt;em&gt;outrageous&lt;/em&gt;. (Especially that tech company avocado stash because WOW. I can never refuse a Californian avocado!)&lt;/p&gt;
+
+&lt;p&gt;But beneath the veneer of casual excess, I know that women and other underrepresented folks have &lt;a href=&quot;https://medium.com/@amelielamont/not-a-black-chair-8a8e7e2b9140&quot;&gt;been&lt;/a&gt; &lt;a href=&quot;https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber&quot;&gt;screwed&lt;/a&gt; by this industry before.&lt;/p&gt;
+
+&lt;p&gt;With this in mind, &lt;strong&gt;I advocate for myself early and often&lt;/strong&gt;. I want to persevere, and I want other underrepresented people in tech to succeed, too.&lt;/p&gt;
+
+&lt;p&gt;In the spirit of our ongoing tenacity, I’ve written two vignettes about my self-advocacy at Medium, and a bonus one from &lt;a href=&quot;https://wafflejs.com/&quot;&gt;WaffleJS&lt;/a&gt;. At the end of each vignette, I share a takeaway about self-advocacy.&lt;/p&gt;
+
+&lt;h2 id=&quot;leveling-up-&quot;&gt;Leveling Up 🔝&lt;/h2&gt;
+
+&lt;p&gt;My engineering manager and I had a conversation about my level, which measures my expertise and, fittingly, my salary. Since I had just started to work two weeks prior, my level had been pre-determined in my offer letter. My manager nevertheless sat me down to go through the leveling system with her.&lt;/p&gt;
+
+&lt;p&gt;I was pleasantly surprised to discover that the leveling system treats engineers as full-on &lt;em&gt;humans&lt;/em&gt; rather than code monkeys. To increase one’s level, an engineer needs to demonstrate not only improvements in their technical skills but also in their “soft” skills, such as initiative, communications, mentorship, et cetera.&lt;/p&gt;
+
+&lt;p&gt;(Take note of the quotations because “soft” skills can be the hard ones!)&lt;/p&gt;
+
+&lt;p&gt;Though I feel quite green as a software engineer—especially one who is currently working on iOS—I knew that my past work in developer evangelism and community-building could give me an edge in many of the “soft” skill categories that go into calculating an engineer’s level.&lt;/p&gt;
+
+&lt;p&gt;I asked my engineering manager if I could take my ample experience in these “soft” skills into account on my next level assessment, and she responded with an emphatic yes. She suggested that, since that the Medium engineering leadership didn’t know me while I was in college, I should go out of my way to give them detailed examples of how I demonstrated these skills.&lt;/p&gt;
+
+&lt;p&gt;I hadn’t expected such an enthusiastic response, but I loved it! Besides reminding me that advocating for myself is the clear-cut &lt;em&gt;right&lt;/em&gt; thing to do, my engineering manager took it a step further by giving me concrete advice on how to make my “soft” skills shine in my next assessment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Self-advocacy is letting others know the awesome things you’ve done.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;speaking-up-&quot;&gt;Speaking Up 💬&lt;/h2&gt;
+
+&lt;p&gt;I picked up a small feature that I wanted to work on a few days ago, and then cringed in horror at the design mock for it. The mock no longer made sense in the context of new design decisions that had recently been made.&lt;/p&gt;
+
+&lt;p&gt;I spun up a quick version of the feature, and then showed it two more senior engineers. I then spoke my piece about why it felt out place, redundant even. Though I’m a junior engineer, I know that I have a stake on what direction the iOS app should be taking.&lt;/p&gt;
+
+&lt;p&gt;The conversation that ensued confirmed my feelings that the feature was redundant, yes, but my fellow iOS engineers showed me that it was merely a placeholder for a better-designed feature with more sensible functionality. They suggested that, since I had taken the initiative to build out the essence of the feature, I should build the new design as well.&lt;/p&gt;
+
+&lt;p&gt;This will be the most complicated iOS task I’ve done at Medium so far, and the chance to tackle it came from speaking up to my co-workers with my design opinions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Self-advocacy opens doors to opportunity.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;standing-up-&quot;&gt;Standing Up 🙋🏻&lt;/h2&gt;
+
+&lt;p&gt;On Wednesday night, I nervously ambled into a gaggle of food trucks looking for a meetup called WaffleJS. I had applied to speak at WaffleJS about &lt;a href=&quot;https://medium.com/@alainakafkes/on-literature-linked-lists-6730308a0d81&quot;&gt;how reading equips engineers to better do their jobs&lt;/a&gt;, and magically got my talk accepted despite being new to the meetup and to San Francisco.&lt;/p&gt;
+
+&lt;p&gt;After bantering with a handful of other attendees and eating doughnuts (surprise!), I got up on stage to give the first talk of the evening to ~75 people, the largest audience I have ever spoken in front of to date.&lt;/p&gt;
+
+&lt;p&gt;And, what do you know: my talk was well-received! My favorite memory of it was when I dropped what was (in my opinion) my most powerful line:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Though we tend to praise ‘geniuses’ in the tech industry, I believe that we should just as strongly exalt people who are curious.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I heard applause and &lt;em&gt;cheers&lt;/em&gt; of affirmation. Damn, did that warm my heart.&lt;/p&gt;
+
+&lt;p&gt;Several attendees introduced themselves to me throughout the meetup and told me about things in my talk that had struck them. I even received some book recommendations!&lt;/p&gt;
+
+&lt;p&gt;Although technical speaking isn’t everyone’s cup of tea, it’s something I find quite fun. I received encouragement from WaffleJS to keep creating spoken and written technical content—encouragement I would never have received if I hadn’t sent that fateful email to the organizers in July.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Self-advocacy is stepping out of your comfort zone.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/chronicles/2017/09/11/self-advocacy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chronicles/2017/09/11/self-advocacy.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Feelings from the First Week</title>
+        <description>&lt;p&gt;My first week as a software engineer has been an utter whirlwind. I’ll &lt;em&gt;chronicle&lt;/em&gt; (ba-dum tss!) some of the emotions I underwent below, and then list my learnings.&lt;/p&gt;
+
+&lt;h2 id=&quot;lonely-&quot;&gt;Lonely 😞&lt;/h2&gt;
+
+&lt;p&gt;Last Saturday, my flight touched down in Oakland International Airport. It wasn’t until then that the whole “new job, new city” thing &lt;em&gt;truly&lt;/em&gt; hit me.&lt;/p&gt;
+
+&lt;p&gt;My start date was a mere two days later in San Francisco, a city in which I know only a handful of acquaintances. I was lucky that my family flew out with me to the Bay Area; without them present, my sense of aloneness and insignificance would have felt more oppressive. RIP.&lt;/p&gt;
+
+&lt;h2 id=&quot;self-righteous-&quot;&gt;Self-Righteous 🙄&lt;/h2&gt;
+
+&lt;p&gt;When I took the BART on Monday morning, I experienced the nagging sensation of being an outsider looking in. From the &lt;a href=&quot;https://en.wikipedia.org/wiki/Bay_Area_Rapid_Transit&quot;&gt;BART&lt;/a&gt; to the bridges, everything about the Bay Area seemed… wrong. I kept comparing things to Chicago, lamenting ad nauseam that &lt;a href=&quot;https://en.wikipedia.org/wiki/Chicago_%22L%22&quot;&gt;the L&lt;/a&gt; is cheaper than the BART and that Chicago’s summer weather was better than Berkeley’s. I doubted that San Francisco could ever feel like home.&lt;/p&gt;
+
+&lt;h2 id=&quot;nervous-&quot;&gt;Nervous 😖&lt;/h2&gt;
+
+&lt;p&gt;Needless to say, I had reduced myself to a pipsqueak-ish person by the time I walked in the door at work. I work at &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt;, a company with less than 100 employees, so my Chicagoan grievances turned into nervousness about fitting in with such a small group and adding value to the product.&lt;/p&gt;
+
+&lt;h2 id=&quot;welcomed-&quot;&gt;Welcomed 😍&lt;/h2&gt;
+
+&lt;p&gt;Looking back, my apprehension was understandable but overblown. My team welcomed me with open arms. There was a box of my favorite snacks (!!!) and swag awaiting me on my desk. Even when my mentor went on a brief vacation, every other engineer on my team offered to &lt;a href=&quot;https://en.wikipedia.org/wiki/Pair_programming&quot;&gt;pair&lt;/a&gt; with me and answer my questions until I got ramped up.&lt;/p&gt;
+
+&lt;p&gt;Team aside, I’ve been able to eat lunch and talk with not only my new grad cohort, but also ~10-15 more experienced Medium employees. My engineering manager took me to the lovely &lt;a href=&quot;https://www.ashateahouse.com/&quot;&gt;Asha Tea House&lt;/a&gt; for our first one-on-one, which got me hooked on boba and established a comfortable manager-engineer relationship. Double win.&lt;/p&gt;
+
+&lt;h2 id=&quot;lucky-&quot;&gt;Lucky 😇&lt;/h2&gt;
+
+&lt;p&gt;If everyone at Medium has one thing in common, it’s friendliness. This has been said time and time again, but it’s worth repeating: &lt;strong&gt;work culture matters&lt;/strong&gt;. As a newcomer to this city, this company, and this line of work, feeling happy and safe at work is a blessing and a privilege.&lt;/p&gt;
+
+&lt;h2 id=&quot;confused-&quot;&gt;Confused 🤔&lt;/h2&gt;
+
+&lt;p&gt;Of course, not everything about my first full-time engineering job is peachy. I’m currently working on Medium iOS, and, because my iOS development experience has only been with personal projects, Medium’s vast codebase intimidates the &lt;em&gt;hell&lt;/em&gt; out of me. Fortunately, my fellow iOS engineers have been more than willing to bring me back to the light when I get lost in its depths.&lt;/p&gt;
+
+&lt;h2 id=&quot;proud-&quot;&gt;Proud 😎&lt;/h2&gt;
+
+&lt;p&gt;Despite my newness to the iOS codebase, I added a small feature that will soon be in production and now I’m working on a second! First &lt;a href=&quot;https://help.github.com/articles/about-pull-requests/&quot;&gt;PRs&lt;/a&gt; have been a big milestone for me ever since I started contributing to open source, so I celebrated the moment my first contribution was approved.&lt;/p&gt;
+
+&lt;h2 id=&quot;educational-&quot;&gt;Educational 🤓&lt;/h2&gt;
+
+&lt;p&gt;Aha. You made it to the last of my emotions! Now, I’ll share with &lt;em&gt;you&lt;/em&gt; some of my takeaways from my first week that I think any engineer – perhaps any human? – can learn from.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ask questions.&lt;/strong&gt; Admitting confusion can be a hard step, especially for new engineers who feel self-conscious about not living up to the high expectations that got them hired. Because I’m cognizant of this feeling, I challenge myself to ask questions, because, without them, my growth would be greatly impeded.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Give small companies a chance.&lt;/strong&gt; Medium is the first small tech company I’ve ever worked at, and so far, I &lt;em&gt;really&lt;/em&gt; like how flexible the teams are and that I’ve already met most of the employees. I anticipate having a highly personalized engineering experience that stretches me where I want to grow, which often doesn’t happen at larger companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Check in and check out.&lt;/strong&gt; At the end of each day, I write down what I accomplished and what I’d like to accomplish the next day. This has helped me track my progress and remember where I left off, which has improved my productivity. Plus, taking a break from my laptop to write in a journal feels &lt;em&gt;really&lt;/em&gt; nice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Say yes!&lt;/strong&gt; Nope, not &lt;a href=&quot;https://www.youtube.com/watch?v=9ExHqF1CDkc&quot;&gt;to the dress&lt;/a&gt;, but to going with your co-workers to do things! This week, I’ve said yes to getting lunch with someone I didn’t know, hunting down food trucks, and picking out team snacks at Trader Joe’s. Taking up these invitations has been quite conducive to having conversations about the non-work part of my co-workers’ lives, which makes me feel even more comfortable at Medium.&lt;/p&gt;
+
+&lt;h2 id=&quot;settled-&quot;&gt;Settled 😌&lt;/h2&gt;
+
+&lt;p&gt;I lied, there’s a bonus emotion.&lt;/p&gt;
+
+&lt;p&gt;I’ve had a exciting (albeit turbulent!) first week that turned into a weekend full of meeting up with friends old and new. I’m starting to feel more settled as new engineer and new San Franciscan.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Aug 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/chronicles/2017/08/28/feelings.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chronicles/2017/08/28/feelings.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to the Chronicles</title>
