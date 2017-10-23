@@ -1,0 +1,55 @@
+<p>I kicked off my career at Medium as an iOS software engineer. This has come as a surprise to many of my friends, who know how much I love playing with Python and that I’ve exclusively written HTML, CSS, and JavaScript in my internships and open source contributions.</p>
+
+<p>So why am I doing iOS development? I want to dabble in a broad array of engineering roles before I make a deep dive into any one of them. I once wrote Swift code for a <a href="http://dtr.northwestern.edu/projects/expanding_citizen_science_">zombie running app</a> in Northwestern’s Delta Lab: that taste of iOS development convinced me to give it a try in production.</p>
+
+<p>Over seven weeks at Medium, I’ve climbed the steep learning curve to working competency in iOS development. I’ll chronicle (back at it with the puns!) my journey, and share with you my thoughts on iOS programming from the lens of a web developer.</p>
+
+<h2 id="paradigm-shift">Paradigm Shift</h2>
+
+<p>When I first opened up Medium’s iOS codebase, I felt like I had just woken up in an alternate reality. Methods were suddenly called messages. Classes were outnumbered by interfaces, protocols, and properties – whatever those meant. Syntax drowned in square brackets.</p>
+
+<p>So went my introduction to Objective-C. Although it is in the C family of programming languages – which I am familiar with – it borrows from <a href="https://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a>, a language implemented in the object-oriented and <a href="https://rosettacode.org/wiki/Category:Programming_paradigm/Reflective">reflective</a> programming paradigms. The term “paradigm shift” <em>literally</em> applies here.</p>
+
+<p>I spent my first week adjusting to the stylistic choices and best practices behind Objective-C programming. Reading this <a href="http://cocoadevcentral.com/d/learn_objectivec/">Objective-C cheat sheet</a> catalyzed many “aha!” moments that I had when sifting through the codebase.</p>
+
+<h2 id="vertically-centering-views--vertically-centering-divs">Vertically Centering Views &gt; Vertically Centering Divs</h2>
+
+<p>The first pull requests I submitted to Medium’s codebase were changes to the application view, or the user interface. At that point, I still felt iffy about my Objective-C skills, so it was nice to be able to visualize what I created by running the iOS simulator.</p>
+
+<p>The thing that struck me most about front-end iOS development was how <em>straightforward</em> and <em>pleasant</em> vertical alignment felt. I swear that I have to Google how to vertically center a div (or other CSS element) every couple of months. <code class="highlighter-rouge">text-align</code> is memorable, but <a href="https://stackoverflow.com/questions/396145/how-to-vertically-center-a-div-for-all-browsers">the witchcraft StackOverflow comes up with</a> to achieve vertical alignment is too much for my mind.</p>
+
+<p>Somehow, in Objective-C, vertical alignment becomes a carefree pastime. To vertically center a <code class="highlighter-rouge">UILabel</code> in a <code class="highlighter-rouge">UIView</code>, all I need to do is grab the <code class="highlighter-rouge">midY</code> – the Y-coordinate at the center of the <code class="highlighter-rouge">UIView</code> – and slap the <code class="highlighter-rouge">UILabel</code> on top of it.</p>
+
+<p>Of all the wonderful aspects of iOS development, the ease of vertical alignment tops the list. It’s the simple things that warmed me up to this new language.</p>
+
+<h2 id="delegating-duties">Delegating Duties</h2>
+
+<p>In my fourth week at Medium, I picked up a task that centered around creating a new view and its corresponding logic to certain Medium stories. I knew the basics of model-view-controller (MVC) – or, at least, which of the model, view, and controller can communicate with one another – but only at a conceptual level.</p>
+
+<p>I remember reading that the controller can set and update the view. This is the case in Medium’s codebase: for a given class, the controller instantiates a view object.</p>
+
+<p>When I had to create a button, however, I realized that I had no clue how to pass information back up from the view to the controller. Wouldn’t it be bad to make the view depend on the controller and the controller depend on the view?</p>
+
+<p>After some documentation hunting, I found out about <a href="https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Delegation.html">delegates</a>. I learned that I could create a delegate that represents the controller so that I could access controller messages (methods) in the view. Using this delegate, I was able to seamlessly hook up a user’s button press action to trigger the appropriate controller method.</p>
+
+<p>To me, an iOS novice, delegation still feels like a cool trick for passing information up the application hierarchy. Weaving delegates up a chain of views and controllers had the added benefit of making me feel more comfortable with the structure of Medium’s codebase.</p>
+
+<h2 id="testing">Testing</h2>
+
+<p>I noticed that an <code class="highlighter-rouge">OCMVerify</code> test that wasn’t passing after I made some changes to a message. I had added a new parameter to that message, and now, this <code class="highlighter-rouge">OCMVerify</code> test was highlighted in an ugly Xcode red.</p>
+
+<p><code class="highlighter-rouge">OCMVerify</code> is a message in the open source iOS testing library <a href="https://github.com/erikdoe/ocmock">OCMock</a>. OCMock. The word “mock” in OCMock refers to a technique in testing in which the programmer tests units (objects, messages, etc.) that are similar to the given unit, but with fake, oversimplified dependencies. A mock unit is an imitation of that unit.</p>
+
+<p>The test that I had made fail instantiated a mock message and then used <code class="highlighter-rouge">OCMVerify</code> to ensure that the messaged had been called. What I found fascinating about this is that the ability to check if a message has been called means that these Objective-C tests can detect changes at <em>run-time</em>. How rad is that?</p>
+
+<p>Back to my failing test. Upon researching the purpose of <code class="highlighter-rouge">OCMVerify</code>, I fixed up the test case by adding in a new parameter to the mock message that accepted any type of object. This allowed me to account for the places in the code where this parameter was nil. Upon recompiling the tests re-testing, this unit test passed!</p>
+
+<p>I had seen mocking and unit testing in previous web development internships, but parsing through the <code class="highlighter-rouge">OCMock</code> library and seeing how it has been used in Medium’s iOS codebase hammered home the concepts. But, to be fair, these recent testing epiphanies may be due to Xcode’s unusually comprehensible error messages rather than the superiority of iOS development tests.</p>
+
+<h2 id="whats-next">What’s next?</h2>
+
+<p>Though my learnings have felt small in the moment, writing them down sequentially demonstrates the sheer breadth of the iOS skills that I’ve gained in a short period of time. I’ve covered a lot of ground in iOS development, which means that I’m now asking as many questions of breadth (what is <a href="https://developer.apple.com/documentation/dispatch">Grand Central Dispatch</a>?) as of depth (behind the abstractions, how does Grand Central Dispatch work?).</p>
+
+<p>I mentioned Grand Central Dispatch (GCD) because that’s the next iOS concept that I’m mentally tackling. I look forward to the rabbit hole that I’ll fall down while learning about it, and the cascading growth I’ll experience as an iOS engineer from learnings like GCD and beyond.</p>
+
+<p><em>To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on <a href="https://twitter.com/alainakafkes">Twitter</a>!</em></p>
