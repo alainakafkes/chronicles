@@ -7,7 +7,7 @@ categories:
 
 Hello again, faithful Chronicles of a Junior Dev readers! Apologies for my absence two weeks ago; I hope that my quirky [linguistics and regular expressions blog post](https://medium.com/@alainakafkes/exploring-the-linguistics-behind-regular-expressions-596fab41146) more than made up for it. Nevertheless, I'm happy to be back to writing the Chronicles.
 
-This weekend, I traveled to Amsterdam to present a talk entitled [Building Beginner-Friendly API Tutorials](https://slides.com/alainakafkes/beginner-friendly-api-tutorials) at [API the Docs](https://apithedocs.org/amsterdam/), a community-driven offshoot of the [Write the Docs](http://www.writethedocs.org/) conference series. It was an incredible experience.
+Last weekend, I traveled to Amsterdam to present a talk entitled [Building Beginner-Friendly API Tutorials](https://slides.com/alainakafkes/beginner-friendly-api-tutorials) at [API the Docs](https://apithedocs.org/amsterdam/), a community-driven offshoot of the [Write the Docs](http://www.writethedocs.org/) conference series. It was an incredible experience.
 
 In the spirit of the Chronicles' transparency, I'll publicly reflect how my talk went.
 
