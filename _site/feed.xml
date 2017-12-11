@@ -5,9 +5,84 @@
     <description></description>
     <link>http://localhost:4000/chronicles/</link>
     <atom:link href="http://localhost:4000/chronicles/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Nov 2017 21:26:50 -0800</pubDate>
-    <lastBuildDate>Sun, 05 Nov 2017 21:26:50 -0800</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2017 10:56:49 -0800</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2017 10:56:49 -0800</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Speaker Reflection: API the Docs Amsterdam</title>
+        <description>&lt;p&gt;Hello again, faithful Chronicles of a Junior Dev readers! Apologies for my absence two weeks ago; I hope that my quirky &lt;a href=&quot;https://medium.com/@alainakafkes/exploring-the-linguistics-behind-regular-expressions-596fab41146&quot;&gt;linguistics and regular expressions blog post&lt;/a&gt; more than made up for it. Nevertheless, I’m happy to be back to writing the Chronicles.&lt;/p&gt;
+
+&lt;p&gt;This weekend, I traveled to Amsterdam to present a talk entitled &lt;a href=&quot;https://slides.com/alainakafkes/beginner-friendly-api-tutorials&quot;&gt;Building Beginner-Friendly API Tutorials&lt;/a&gt; at &lt;a href=&quot;https://apithedocs.org/amsterdam/&quot;&gt;API the Docs&lt;/a&gt;, a community-driven offshoot of the &lt;a href=&quot;http://www.writethedocs.org/&quot;&gt;Write the Docs&lt;/a&gt; conference series. It was an incredible experience.&lt;/p&gt;
+
+&lt;p&gt;In the spirit of the Chronicles’ transparency, I’ll publicly reflect how my talk went.&lt;/p&gt;
+
+&lt;p&gt;Overall, my talk was &lt;em&gt;very&lt;/em&gt; well-received by the attendees of API the Docs. Here’s a smattering of their tweets:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Really important final tip for great tutorials &lt;a href=&quot;https://twitter.com/alainakafkes?ref_src=twsrc%5Etfw&quot;&gt;@alainakafkes&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/apithedocs?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#apithedocs&lt;/a&gt; &lt;a href=&quot;https://t.co/lBqGpI8EBw&quot;&gt;pic.twitter.com/lBqGpI8EBw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kristof Van Tomme (@kvantomme) &lt;a href=&quot;https://twitter.com/kvantomme/status/937619938646396928?ref_src=twsrc%5Etfw&quot;&gt;December 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Learning so much at &lt;a href=&quot;https://twitter.com/hashtag/apithedocs?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#apithedocs&lt;/a&gt;. Thanks to &lt;a href=&quot;https://twitter.com/cbetta?ref_src=twsrc%5Etfw&quot;&gt;@cbetta&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/alainakafkes?ref_src=twsrc%5Etfw&quot;&gt;@alainakafkes&lt;/a&gt; for eye-opening talks!&lt;/p&gt;&amp;mdash; Anthony Sansone (@atsansone) &lt;a href=&quot;https://twitter.com/atsansone/status/937644602143764480?ref_src=twsrc%5Etfw&quot;&gt;December 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Choose words that welcome beginners from all backgrounds&amp;quot;, good tip from &lt;a href=&quot;https://twitter.com/alainakafkes?ref_src=twsrc%5Etfw&quot;&gt;@alainakafkes&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/hashtag/apithedocs?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#apithedocs&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jessica Ulyate (@JulyAte) &lt;a href=&quot;https://twitter.com/JulyAte/status/937619881452888064?ref_src=twsrc%5Etfw&quot;&gt;December 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I felt quite satisfied with the contents of my talk. Though given ~3 weeks to pitch and put together this talk, I worked hard to back up my thesis with examples and then turn my talking points into a compelling narrative. Thus, there are only few content-related things that I would’ve done differently.&lt;/p&gt;
+
+&lt;p&gt;One thing I’d like to do is &lt;strong&gt;add specificity to my takeaways&lt;/strong&gt;. For instance, one of my &lt;a href=&quot;&quot;&gt;seven&lt;/a&gt; tutorial-proofreading steps was to tell the beginner what to do upon completing the tutorial. However, what I failed to acknowledge is how difficult it can be to choose the appropriate next steps. I could have added supplementary advice and examples to this point.&lt;/p&gt;
+
+&lt;p&gt;Another content thing that I’d like to improve upon is to &lt;strong&gt;tailor this talk to its audience&lt;/strong&gt;. Most of my proofreading tips would work for non-API tutorials, too. I used API-related examples, yes, but I’d like to perform an audit of this talk with future audiences in mind to make sure that I’m providing them with customized documentation tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My biggest qualm about my talk has to do with its delivery&lt;/strong&gt;. I’m pleased with the speech itself – I can’t wait for the recording to see how I sounded! – but I regret my decision to try &lt;a href=&quot;https://slides.com&quot;&gt;Slides&lt;/a&gt; on a whim.&lt;/p&gt;
+
+&lt;p&gt;I’ll admit it: I got sucked into the mindset that since all the “cool tech kids” were using Slides, I should, too. There are benefits to using Slides, such as its beautiful user interface and view metrics tracking. But what made me choose Slides – the ability to use my smartphone as a clicker – is what ended up disappointing me.&lt;/p&gt;
+
+&lt;p&gt;Since I haven’t given this talk at an event before, I wrote speaker notes to keep me on track. With Slides, these speaker notes show up on the smartphone-clicker: convenient, right? Not when &lt;strong&gt;the act of looking down at my phone felt more distracting (to the audience) and disorienting (to me) than simply using web-based speaker notes&lt;/strong&gt;. Looking down at my phone made me feel unpolished.&lt;/p&gt;
+
+&lt;p&gt;On the bright side, I know for the future that I’ll stick to giving my talks with speaker notes on a laptop or, better yet, not relying upon speaker notes at all. Maybe I’m just a Google Slides girl at heart. 🙃&lt;/p&gt;
+
+&lt;p&gt;Talk dissection complete! Now I can share the best part of API the Docs: many of &lt;strong&gt;the speakers’ words underscored related themes and built upon one another&lt;/strong&gt;. It felt amazing to be one of the people shaping the zeitgeist of this community of technical writers, engineers, developer evangelists, and other documentation enthusiasts.&lt;/p&gt;
+
+&lt;p&gt;Special thank you to Kristof, Laura, and Kathleen for organizing a stellar conference and helping me feel at home in Netherlands. You truly went above and beyond as conference organizers. Your compassionate leadership gives me faith in the API documentation community, and the tech industry at large.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/chronicles/2017/12/11/api-the-docs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chronicles/2017/12/11/api-the-docs.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Unexpected Wisdom</title>
+        <description>&lt;p&gt;Thanks to my hasty decision to do &lt;a href=&quot;https://nanowrimo.org/&quot;&gt;NaNoWriMo&lt;/a&gt;, I’ve been working on another blog post this weekend that doesn’t quite fit the theme of &lt;em&gt;Chronicles&lt;/em&gt;. I’ll hopefully cross-publish that on &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt; and &lt;a href=&quot;https://dev.to/&quot;&gt;dev.to&lt;/a&gt; later this week.&lt;/p&gt;
+
+&lt;p&gt;So, in this chronicle, I have something succinct to share: one quirky, unexpected software engineering epiphany that I had this week.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Work where the employees dress up for Halloween.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At least in the Bay Area, software engineers can take their pick of companies to work for. How can an engineer distinguish which company would make them happiest? I’d argue that, though salary helps,  company culture has a significant impact on an engineer’s contentment and personal growth.&lt;/p&gt;
+
+&lt;p&gt;Company culture is an admittedly difficult-to-measure trait. During the interview process, it feels difficult to assess how a company treats its employees as well as how they treat one another.&lt;/p&gt;
+
+&lt;p&gt;One solution: interview on Halloween like I did at Medium! Kidding, of course, but during my interview I noticed something: when a company allows its employees to dress up in costume, it affirms its employees’ values and passions. It supports self-expression. It signifies that employees can bring their whole selves to work.&lt;/p&gt;
+
+&lt;p&gt;Although you shouldn’t let a company’s blowout Halloween party sway you to take an offer, consider probing your interviewer with questions about the little things that make life at a company enjoyable. Learning about how a company handles Halloween is a great way assess its community and culture, which both impact an engineer’s ability to succeed in their job.&lt;/p&gt;
+
+&lt;p&gt;Even though October is over, I hope that the spookiest holiday of the year brings you the most splendid of jobs. 👻 🎃&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Enjoy what you read? Spread the love by sharing this piece. Have thoughts or questions? Reach out to me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt; or in the comments below.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Nov 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/chronicles/2017/11/06/unexpected.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chronicles/2017/11/06/unexpected.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Rejection &amp; Revision</title>
