@@ -5,15 +5,120 @@
     <description></description>
     <link>http://localhost:4000/chronicles/</link>
     <atom:link href="http://localhost:4000/chronicles/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Dec 2017 10:56:49 -0800</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 10:56:49 -0800</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2017 11:11:05 -0600</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2017 11:11:05 -0600</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>'17 Going on '18</title>
+        <description>&lt;p&gt;Cue up some &lt;a href=&quot;https://www.youtube.com/watch?v=hwK_WOXjfc0&quot;&gt;Rodgers &amp;amp; Hammerstein&lt;/a&gt; because 2017 is almost over and I’ve got a lot to say.&lt;/p&gt;
+
+&lt;h2 id=&quot;tldr-by-the-numbers&quot;&gt;TL;DR: By the Numbers&lt;/h2&gt;
+
+&lt;p&gt;I earned &lt;strong&gt;1 college degree&lt;/strong&gt; in computer science with a smattering of humanities classes.&lt;/p&gt;
+
+&lt;p&gt;I organized &lt;strong&gt;1 hackathon&lt;/strong&gt; named &lt;a href=&quot;http://buildher.io/&quot;&gt;BuildHer&lt;/a&gt;, and it was rad!&lt;/p&gt;
+
+&lt;p&gt;I listened to &lt;strong&gt;2 podcasts&lt;/strong&gt; from start to finish this year: &lt;a href=&quot;https://stownpodcast.org/&quot;&gt;S-Town&lt;/a&gt; and &lt;a href=&quot;https://www.rabbitspodcast.com/&quot;&gt;Rabbits&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I spoke at &lt;strong&gt;3 tech conferences&lt;/strong&gt; and several meetups. Here’s a &lt;a href=&quot;https://pronovix.com/api-docs-amsterdam-2017&quot;&gt;recording&lt;/a&gt; from one of them. Though I’ve been submitting talk ideas to tech conferences since late 2016, I didn’t start getting acceptances until mid-2017. I’m happy that my perseverance paid off.&lt;/p&gt;
+
+&lt;p&gt;I’ve been surviving (and thriving!) in San Francisco for the past &lt;strong&gt;4 months&lt;/strong&gt;. Given that SF is the first place I’ve ever lived outside of the Chicagoland area, that’s quite a feat for me.&lt;/p&gt;
+
+&lt;p&gt;I traveled to &lt;strong&gt;21 cities&lt;/strong&gt; – 9 of which I had never been to before – and &lt;strong&gt;4 countries&lt;/strong&gt; – 3 (Italy, Switzerland, and the Netherlands) of which I had never visited before.&lt;/p&gt;
+
+&lt;p&gt;I read &lt;strong&gt;40 books&lt;/strong&gt;, which you can find listed on my &lt;a href=&quot;http://goodreads.com/alainakafkes&quot;&gt;Goodreads&lt;/a&gt; and reviewed on my &lt;a href=&quot;https://kafkesquartos.tumblr.com/&quot;&gt;book Tumblr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I ran &lt;em&gt;a lot&lt;/em&gt;, but, because I haven’t been keeping track, I can’t share my total mileage this year. 😢 It’s safe to say that I have been running &lt;strong&gt;~20 miles/week&lt;/strong&gt; while living in San Francisco.&lt;/p&gt;
+
+&lt;p&gt;I’ve made &lt;strong&gt;120 commits&lt;/strong&gt; in Medium’s codebase thus far. None of them did anything egregious (bless!).&lt;/p&gt;
+
+&lt;p&gt;Now that I’m done crunching numbers, I’ll share some of my musings on 2017.&lt;/p&gt;
+
+&lt;h2 id=&quot;on-becoming-an-adult&quot;&gt;On Becoming an “Adult”&lt;/h2&gt;
+
+&lt;p&gt;In August, I left behind Chicago – where I resided from birth until age 22 – to take on the tech industry in San Francisco. I haven’t been a minor in the eyes of the government for years, but I feel that &lt;strong&gt;moving across the country &lt;em&gt;truly&lt;/em&gt; christened me as an “adult.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In an earlier chronicle, I referred to myself on my first day at Medium as “&lt;a href=&quot;https://alainakafkes.github.io/chronicles/2017/08/28/feelings.html&quot;&gt;pipsqueak-ish&lt;/a&gt;.” That sums up how I felt during my initial interactions with new people in San Francisco, be they my co-workers, roommates, future friends, or random people. I assumed that college Alaina wouldn’t translate well into “adult” Alaina, so I muted my personality.&lt;/p&gt;
+
+&lt;p&gt;Well, readers, greyscale Alaina didn’t last long. I soon realized that &lt;strong&gt;adulthood doesn’t mean living an insipid existence&lt;/strong&gt; (lmao), and corrected my course of action.&lt;/p&gt;
+
+&lt;p&gt;I started connecting with my coworkers about non-work, non-tech things and  felt more motivated to build a better Medium because of it. I opened up to my roommates and new friends about the (sometimes absurd) things that make me who I am.&lt;/p&gt;
+
+&lt;p&gt;Rather than forsake everything about child Alaina, teenage Alaina, and college Alaina, I’ve woven these different Alainas together into a not-“pipsqueak-ish” adult Alaina.&lt;/p&gt;
+
+&lt;p&gt;I haven’t filed my taxes yet so we’ll see how I’m feeling about adulthood come the spring. For now, I’ll revel in its magic.&lt;/p&gt;
+
+&lt;h2 id=&quot;on-losing-sloane&quot;&gt;On Losing Sloane&lt;/h2&gt;
+
+&lt;p&gt;I lost one of my close high school friends this November. I share this in Chronicles of a Junior Dev because it was she who introduced me to computer science in the first place. In fact, &lt;strong&gt;there wouldn’t be a Chronicles if it weren’t for a gift that Sloane gave me four years ago.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On Christmas 2013, I received a package from Sloane containing Simon Singh’s &lt;a href=&quot;https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323&quot;&gt;&lt;em&gt;The Code Book&lt;/em&gt;&lt;/a&gt;, a wonderful pop science history of cryptography from Caesar ciphers to RSA and quantum computing. Because I went through a cryptography phase in grade school – yes, I was &lt;em&gt;that&lt;/em&gt; kid parsing through the &lt;a href=&quot;https://en.wikipedia.org/wiki/Voynich_manuscript&quot;&gt;Voynich manuscript&lt;/a&gt; – I got hooked on Singh’s book.&lt;/p&gt;
+
+&lt;p&gt;Programming seemed like the next logical step in learning more about cryptography, so I took MIT’s Python MOOC in summer 2014 and enrolled in my first computer science course at Northwestern in early 2015. I switched majors soon thereafter.&lt;/p&gt;
+
+&lt;p&gt;Throughout my computer science coursework, Sloane would pepper me with questions. What classes was I taking? What was I building? What bugs were eluding me? Though she was years ahead of me in her technical prowess, she still got excited about my small fry victories.&lt;/p&gt;
+
+&lt;p&gt;I am indebted to Sloane, but I’ve never featured (let alone mentioned) her in my writing until now. &lt;strong&gt;I’m trying to change that in this 2017 reflection post because I wouldn’t have stumbled upon computer science, software engineering, and other rad tech things without her impact.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sloane also acquainted me with iOS development, which I’m doing at Medium right now. It feels wrong that I’ll soon surpass her engineering knowledge, but my successes will always be in her memory.&lt;/p&gt;
+
+&lt;h2 id=&quot;on-engineering&quot;&gt;On Engineering&lt;/h2&gt;
+
+&lt;p&gt;According to the Chronicles of a Junior Dev about page, I originally created this blog to “track my growth as a new software engineer.” Although I’ve heretofore shared a lot of anecdotes, I have a data-driven measure of progress that I’d like to share: &lt;strong&gt;the number of revisions that I have had to make on my pull requests have been decreasing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This could signify a few things:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I’m waiting longer – that is, until my code is &lt;em&gt;truly&lt;/em&gt; ready – to make pull requests.&lt;/li&gt;
+  &lt;li&gt;The quality of my code in each pull request is improving.&lt;/li&gt;
+  &lt;li&gt;I’m breaking down projects so that I can make more targeted changes in each pull request.&lt;/li&gt;
+  &lt;li&gt;I’ve internalized Medium’s iOS style choices and best practices.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There’s no way for me to pinpoint exactly what I’ve been doing better, but I’ll discuss the evolution of my pull request philosophy in a 2018 chronicle. 😉&lt;/p&gt;
+
+&lt;h2 id=&quot;on-writing&quot;&gt;On Writing&lt;/h2&gt;
+
+&lt;p&gt;Even though I don’t do it for a living, I’ve taken to thinking of myself as a writer this year. I realized this upon receiving an email from a professional technical writer who told me “you’re not a casual tech writer.” That meant a lot! So, while 2016 was the year that I started publishing my writing, &lt;strong&gt;2017 will go down as the year that I embraced “writer” as a part of my identity&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I hit some pretty cool milestones as a writer in 2017. My blog post “&lt;a href=&quot;https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296&quot;&gt;Demystifying Dynamic Programming&lt;/a&gt;” has been viewed by ~24,000 people and read in full by ~5,000 of those. I got recruited and paid by Twilio to publish a &lt;a href=&quot;https://www.twilio.com/blog/2017/09/send-text-messages-golang.html&quot;&gt;tutorial&lt;/a&gt;. And, my favorite: a &lt;a href=&quot;https://www.slantnu.com/pieces#/alaina-kafkes/&quot;&gt;fictional story&lt;/a&gt; that I wrote got published in a literary magazine!&lt;/p&gt;
+
+&lt;h2 id=&quot;on-reading&quot;&gt;On Reading&lt;/h2&gt;
+
+&lt;p&gt;As I mentioned in my blog post “&lt;a href=&quot;https://medium.com/@alainakafkes/on-literature-linked-lists-6730308a0d81&quot;&gt;On Literature and Linked Lists&lt;/a&gt;,” I didn’t get back into reading books regularly until December 2016. I started reading again because I felt like I was draining my days (and my happiness) by scrolling through social media feeds.&lt;/p&gt;
+
+&lt;p&gt;One year later, I can safely say that &lt;strong&gt;reading has improved my quality of life&lt;/strong&gt;. I haven’t been measuring my social media intake, but I’m sure that it has lessened substantially. As someone who is paid to look at a screen (well, maybe a bit more than that… 😛), I’d prefer to sift through the pages of a book after hours.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-year&quot;&gt;Next Year&lt;/h2&gt;
+
+&lt;p&gt;I’ve identified a few personal focus areas for 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Running&lt;/strong&gt;. I’ve been running as a form of exercise for over 10 years, but I haven’t been “serious” about running since I ran high school cross country. I’d like to start and stick to a training regimen that will help me build upon my speed and endurance. And, though I already run long distances for fun, I’d like to complete a half marathon (or longer!) at a race pace.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mindfulness.&lt;/strong&gt; Not to be tacky, but I’d like to increase my self-awareness. My search for mindfulness is rooted in a need to achieve balance. For example, I felt off-kilter accepting a bunch of technical speaking opportunities because part of me just wants to &lt;em&gt;enjoy&lt;/em&gt; existing in San Francisco. I want to avoid going overboard when I can.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages.&lt;/strong&gt; I miss being able to use my French. I’d like to read several books in French this upcoming year, and, if I’m lucky, to find someone who will speak it conversationally with me. Natural languages aside, I’d also like to improve my fluency in Objective-C and Swift, and better understand the iOS hardware for which they were built. If that’s not too much, I’ll move on to studying new natural and formal languages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Experimentation.&lt;/strong&gt; I’d like to try new things, especially if those new things involve working on mindfulness or building new communities. I want to keep reading and running – two fantastic mindfulness practices – but those are solitary activities. I want to do things that I never thought I’d do so that I can meet even more rad San Franciscans and have fun while doing so.&lt;/p&gt;
+
+&lt;p&gt;As a final thought, I’ll drop this long-term goal here: &lt;strong&gt;I’d like to write a book someday&lt;/strong&gt;. Hold me to it.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading, and onward to a splendiferous 2018!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Dec 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/chronicles/2017/12/26/year-in-review.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chronicles/2017/12/26/year-in-review.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Speaker Reflection: API the Docs Amsterdam</title>
         <description>&lt;p&gt;Hello again, faithful Chronicles of a Junior Dev readers! Apologies for my absence two weeks ago; I hope that my quirky &lt;a href=&quot;https://medium.com/@alainakafkes/exploring-the-linguistics-behind-regular-expressions-596fab41146&quot;&gt;linguistics and regular expressions blog post&lt;/a&gt; more than made up for it. Nevertheless, I’m happy to be back to writing the Chronicles.&lt;/p&gt;
 
-&lt;p&gt;This weekend, I traveled to Amsterdam to present a talk entitled &lt;a href=&quot;https://slides.com/alainakafkes/beginner-friendly-api-tutorials&quot;&gt;Building Beginner-Friendly API Tutorials&lt;/a&gt; at &lt;a href=&quot;https://apithedocs.org/amsterdam/&quot;&gt;API the Docs&lt;/a&gt;, a community-driven offshoot of the &lt;a href=&quot;http://www.writethedocs.org/&quot;&gt;Write the Docs&lt;/a&gt; conference series. It was an incredible experience.&lt;/p&gt;
+&lt;p&gt;Last weekend, I traveled to Amsterdam to present a talk entitled &lt;a href=&quot;https://slides.com/alainakafkes/beginner-friendly-api-tutorials&quot;&gt;Building Beginner-Friendly API Tutorials&lt;/a&gt; at &lt;a href=&quot;https://apithedocs.org/amsterdam/&quot;&gt;API the Docs&lt;/a&gt;, a community-driven offshoot of the &lt;a href=&quot;http://www.writethedocs.org/&quot;&gt;Write the Docs&lt;/a&gt; conference series. It was an incredible experience.&lt;/p&gt;
 
 &lt;p&gt;In the spirit of the Chronicles’ transparency, I’ll publicly reflect how my talk went.&lt;/p&gt;
 
@@ -48,7 +153,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Dec 2017 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/chronicles/2017/12/11/api-the-docs.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/12/11/api-the-docs.html</guid>
         
@@ -77,7 +182,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Nov 2017 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 06 Nov 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/chronicles/2017/11/06/unexpected.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/11/06/unexpected.html</guid>
         
@@ -217,7 +322,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Oct 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 23 Oct 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/chronicles/2017/10/23/rejection-revision.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/10/23/rejection-revision.html</guid>
         
@@ -282,7 +387,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 09 Oct 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 09 Oct 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/chronicles/2017/10/09/apples.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/10/09/apples.html</guid>
         
@@ -331,7 +436,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 25 Sep 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 25 Sep 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/chronicles/2017/09/25/constraints.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/09/25/constraints.html</guid>
         
@@ -402,7 +507,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Sep 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 11 Sep 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/chronicles/2017/09/11/self-advocacy.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/09/11/self-advocacy.html</guid>
         
@@ -465,7 +570,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 28 Aug 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/chronicles/2017/08/28/feelings.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/08/28/feelings.html</guid>
         
@@ -496,7 +601,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Aug 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/chronicles/2017/08/14/welcome.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/08/14/welcome.html</guid>
         
