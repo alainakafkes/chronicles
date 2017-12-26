@@ -19,6 +19,8 @@ I spoke at **3 tech conferences** and several meetups. Here's a [recording](http
 
 I've been surviving (and thriving!) in San Francisco for the past **4 months**. Given that SF is the first place I've ever lived outside of the Chicagoland area, that's quite a feat for me.
 
+I wrote **20 blog posts**, including the one you're reading right now! 😱
+
 I traveled to **21 cities** – 9 of which I had never been to before – and **4 countries** – 3 (Italy, Switzerland, and the Netherlands) of which I had never visited before.
 
 I read **40 books**, which you can find listed on my [Goodreads](http://goodreads.com/alainakafkes) and reviewed on my [book Tumblr](https://kafkesquartos.tumblr.com/).
