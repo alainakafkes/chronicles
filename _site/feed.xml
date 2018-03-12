@@ -5,9 +5,60 @@
     <description></description>
     <link>http://localhost:4000/chronicles/</link>
     <atom:link href="http://localhost:4000/chronicles/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Dec 2017 11:39:58 -0600</pubDate>
-    <lastBuildDate>Tue, 26 Dec 2017 11:39:58 -0600</lastBuildDate>
+    <pubDate>Mon, 12 Mar 2018 10:53:47 -0700</pubDate>
+    <lastBuildDate>Mon, 12 Mar 2018 10:53:47 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Community-Building at RubyConf AU</title>
+        <description>&lt;p&gt;It’s been a hot second, but I’m back at it with blogging.&lt;/p&gt;
+
+&lt;p&gt;I just got home from &lt;a href=&quot;https://twitter.com/rubyconf_au/status/971948375842025472&quot;&gt;speaking&lt;/a&gt; at &lt;a href=&quot;https://www.rubyconf.org.au/2018&quot;&gt;RubyConf Australia&lt;/a&gt;. I found the conference to be one of the best I’ve attended due to its emphasis on community-building.&lt;/p&gt;
+
+&lt;p&gt;I’m no Rubyist by profession, which (admittedly) made me feel fraudulent as a speaker, but getting to know the RubyConf AU attendees and organizers showed me that Rubyists welcome people who write in other languages. One of my favorite takeaways from RubyConf AU came from &lt;a href=&quot;https://twitter.com/glasnt&quot;&gt;Katie McLaughlin&lt;/a&gt;’s &lt;a href=&quot;https://github.com/glasnt/talks/tree/gh-pages/2018_03_RubyConfAU&quot;&gt;multilingual talk&lt;/a&gt; entitled “JavaScript is Awe-ful”: &lt;strong&gt;no language is the “best” language&lt;/strong&gt;. As frustrating as the quirks of other languages may seem to a Rubyist, they arise from thoughtful design decisions.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Love how &lt;a href=&quot;https://twitter.com/glasnt?ref_src=twsrc%5Etfw&quot;&gt;@glasnt&lt;/a&gt; reframed these oddities as the product of design decisions that keep JavaScript backwards compatible. Huh. &lt;a href=&quot;https://twitter.com/hashtag/rubyconf_au?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rubyconf_au&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alaina Kafkes (@alainakafkes) &lt;a href=&quot;https://twitter.com/alainakafkes/status/971550276652908544?ref_src=twsrc%5Etfw&quot;&gt;March 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Seeing Katie deliver this talk in the first few hours of the conference made me feel at home within the Australian Ruby community.&lt;/p&gt;
+
+&lt;p&gt;Katie’s subject matter was no anomaly. I loved that the organizers of RubyConf AU appeared to have chosen talks that focused more on people than on petty programming language schisms.&lt;/p&gt;
+
+&lt;p&gt;Examples include &lt;a href=&quot;https://twitter.com/merxplat&quot;&gt;Merrin Macleod&lt;/a&gt;’s presentation on the political aspects of software engineering…&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“It’s not enough to say we’re making the world better. Who is it going to be better for?” - &lt;a href=&quot;https://twitter.com/merxplat?ref_src=twsrc%5Etfw&quot;&gt;@merxplat&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/rubyconf_au?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rubyconf_au&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jess Rudder (@JessRudder) &lt;a href=&quot;https://twitter.com/JessRudder/status/971996107621392384?ref_src=twsrc%5Etfw&quot;&gt;March 9, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;… and &lt;a href=&quot;https://twitter.com/ryanbigg&quot;&gt;Ryan Bigg&lt;/a&gt;’s “hire juniors!” address.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Truth bomb from &lt;a href=&quot;https://twitter.com/ryanbigg?ref_src=twsrc%5Etfw&quot;&gt;@ryanbigg&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/rubyconf_au?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rubyconf_au&lt;/a&gt; &lt;a href=&quot;https://t.co/A0fxvE5CSB&quot;&gt;pic.twitter.com/A0fxvE5CSB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Nick Bruning ✨ (@thetron) &lt;a href=&quot;https://twitter.com/thetron/status/971624685233356800?ref_src=twsrc%5Etfw&quot;&gt;March 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;These people-first speakers set the stage for me to share my thoughts on how to create accessible, empathetic, and thorough technical writing. With 400+ attendees, RubyConf AU had the biggest crowd in front of which I’d ever spoken – which certainly made me nervous – but I pulled through and delivered what I believe to be my best talk to date.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/alainakafkes?ref_src=twsrc%5Etfw&quot;&gt;@alainakafkes&lt;/a&gt; is up at &lt;a href=&quot;https://twitter.com/hashtag/rubyconf_au?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rubyconf_au&lt;/a&gt; talking about technical writing in a clear, concise and structured way.. like good technical writing 👌👌👌👌&lt;/p&gt;&amp;mdash; Merrin Macleod (@merxplat) &lt;a href=&quot;https://twitter.com/merxplat/status/971948400592658432?ref_src=twsrc%5Etfw&quot;&gt;March 9, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Best talk of the conference. Thanks &lt;a href=&quot;https://twitter.com/alainakafkes?ref_src=twsrc%5Etfw&quot;&gt;@alainakafkes&lt;/a&gt; 🙏🏼 &lt;a href=&quot;https://twitter.com/hashtag/rubyconf_au?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rubyconf_au&lt;/a&gt; &lt;a href=&quot;https://t.co/0WohVcupM3&quot;&gt;https://t.co/0WohVcupM3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tim Riley (@timriley) &lt;a href=&quot;https://twitter.com/timriley/status/971953835345244160?ref_src=twsrc%5Etfw&quot;&gt;March 9, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;As a bonus, &lt;a href=&quot;https://twitter.com/sandimetz&quot;&gt;Sandi Metz&lt;/a&gt; helped me out during my post-talk Q&amp;amp;A. It was an honor to have a renowned technical author back my ideas up!&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“Say whatever you have to say. Someone else is where you were then, right now” &lt;br /&gt;&lt;br /&gt;paraphrase from &lt;a href=&quot;https://twitter.com/sandimetz?ref_src=twsrc%5Etfw&quot;&gt;@sandimetz&lt;/a&gt; &lt;a href=&quot;https://twitter.com/rubyconf_au?ref_src=twsrc%5Etfw&quot;&gt;@rubyconf_au&lt;/a&gt; in regards to &lt;a href=&quot;https://twitter.com/alainakafkes?ref_src=twsrc%5Etfw&quot;&gt;@alainakafkes&lt;/a&gt; talk on technical writing&lt;br /&gt;&lt;br /&gt;Hugely impactful words from both of you today, thank you.👌&lt;/p&gt;&amp;mdash; James Apple (@_JamesApple) &lt;a href=&quot;https://twitter.com/_JamesApple/status/971959980042563585?ref_src=twsrc%5Etfw&quot;&gt;March 9, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;RubyConf AU further strengthened the conference community by hosting ample social events. I &lt;em&gt;still&lt;/em&gt; find it incredible that I got to eat a four-dollar-sign dinner in the Sydney Opera House, roam the Chinese Friendship Gardens, and ogle at cute long-beaked echidnas in the Taronga Zoo with my fellow attendees!&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5oFSLQn9nNE&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I’m grateful for the hard work that &lt;a href=&quot;https://twitter.com/MelissaKaulfuss&quot;&gt;Mel&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/thetron&quot;&gt;Nick&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/sharon_av&quot;&gt;Sharon&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/nadiavu_&quot;&gt;Nadia&lt;/a&gt; put into hosting a refreshingly community-focused event and welcoming me to Australia.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Mar 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/chronicles/2018/03/11/rubyconf-au.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chronicles/2018/03/11/rubyconf-au.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>'17 Going on '18</title>
@@ -109,7 +160,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 26 Dec 2017 00:00:00 -0600</pubDate>
+        <pubDate>Tue, 26 Dec 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/chronicles/2017/12/26/year-in-review.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/12/26/year-in-review.html</guid>
         
@@ -155,7 +206,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Dec 2017 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/chronicles/2017/12/11/api-the-docs.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/12/11/api-the-docs.html</guid>
         
@@ -184,7 +235,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Nov 2017 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 06 Nov 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/chronicles/2017/11/06/unexpected.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/11/06/unexpected.html</guid>
         
@@ -324,7 +375,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Oct 2017 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 23 Oct 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/chronicles/2017/10/23/rejection-revision.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/10/23/rejection-revision.html</guid>
         
@@ -389,7 +440,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 09 Oct 2017 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 09 Oct 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/chronicles/2017/10/09/apples.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/10/09/apples.html</guid>
         
@@ -438,7 +489,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 25 Sep 2017 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 25 Sep 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/chronicles/2017/09/25/constraints.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/09/25/constraints.html</guid>
         
@@ -509,7 +560,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Sep 2017 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 11 Sep 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/chronicles/2017/09/11/self-advocacy.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/09/11/self-advocacy.html</guid>
         
@@ -572,7 +623,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 28 Aug 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/chronicles/2017/08/28/feelings.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/08/28/feelings.html</guid>
         
@@ -603,7 +654,7 @@
 
 &lt;p&gt;&lt;em&gt;To be updated about new posts in the Chronicles of a Junior Dev saga, follow me on &lt;a href=&quot;https://twitter.com/alainakafkes&quot;&gt;Twitter&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Aug 2017 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/chronicles/2017/08/14/welcome.html</link>
         <guid isPermaLink="true">http://localhost:4000/chronicles/2017/08/14/welcome.html</guid>
         
